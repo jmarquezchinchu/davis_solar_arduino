@@ -1,4 +1,4 @@
-# davis_solar_arduino
+# ARDUINO SOLAR RADIATION SENSOR (DAVIS)
 Davis solar radiation sensor used on Arduino UNO with external 3.3V voltage reference on AREF pin
 
 Davis sensor pin:
